@@ -11,4 +11,5 @@
 Models: app/Models/Post.php
 Controller: app/http/Controllers/PostController.php
 View: resources/views/posts/
+Routing: routes/web.php
 
